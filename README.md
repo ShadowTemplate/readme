@@ -1,14 +1,14 @@
 # About me
 
 Hi! My name is Gianvito and I am a curious, passionate, sturdy computer 
-scientist always looking for thrilling problems to solve.
+scientist from [Bari](https://en.wikipedia.org/wiki/Bari) (Italy), always 
+looking for thrilling problems to solve.
 
 This page will provide you some information about me, my projects and the 
 things I love.
 If you are interested in my academic background and my work experience you can 
-have a look at my [curriculum vitae](Curriculum Vitae - Gianvito Taneburgo.pdf),
-that I will try to keep updated.
-You can also find there my contacts. 
+have a look at my [curriculum vitae](https://github.com/ShadowTemplate/readme/blob/master/Curriculum%20Vitae%20-%20Gianvito%20Taneburgo.pdf).
+You can also find my contacts there. 
 Feel free to send me an email (taneburgo_at_gmail_dot_com) for any question: 
 I will be more than happy to reply!
 
@@ -17,13 +17,13 @@ computing and concurrency. My most interesting GitHub projects cover these
 topics. In the future I'd love to have the possibility to also delve into other 
 fields, such as algebra and statistics, computability and computational 
 complexity.
-Above all, quantum computing is polarizing my curiosity right now.
+Above all, quantum computing is polarizing my curiosity these days.
 
-I see myself as a computer scientist more than as a software engineer, since I 
+I see myself as a computer scientist more than a software engineer, since I 
 love analysing and solving complex problems from a theoretical point of view, 
 in front of a whiteboard, rather than just building software. 
 However, I also like the practical part of my profession and few things in the 
-world can gratify me as an expressive, clean, elegant code.
+world can give me satisfaction like an expressive, clean, elegant code does.
 I believe coding is an art involving a unique form of creativity.
 For this reason I always strive to implement algorithms in the best way I can 
 and to develop robust, efficient and maintainable software.
@@ -37,27 +37,32 @@ such as those involving testing, optimization, scalability and profiling.
 In my GitHub profile you will find repositories for most of the code I've 
 written in my life, from 
 [my first Hello World in C](https://github.com/ShadowTemplate/programming-1.0/blob/master/Esercitazione%201/Esercizio%201.c)
-up to [my master's degree machine learning thesis on Constrained Adversarial Networks](https://github.com/ShadowTemplate/constrained-adversarial-network), 
+up to my master's degree machine learning thesis on 
+[Constrained Adversarial Networks](https://github.com/ShadowTemplate/constrained-adversarial-networks), 
 a deep generative model.
 
 I've created a simple [README template](https://github.com/ShadowTemplate/project-template)
 to keep project information organised.
 Most of my projects conform to this template and you should be able to easily
-retrieve the most important details.
+retrieve the most important details for any of them.
 
 They include programs written in Python, Java, C++, C, Scilab, JavaScript, 
-HTML and CSS as well as using a wide variety of 
+HTML and CSS, using a wide variety of 
 libraries (TensorFlow, NumPy, SciPy, Akka, Spark, scikit-learn, SimPy, Lombok, 
 Numba, Selenium), 
 platforms (Google Cloud Platform, Heroku)
-and technologies (Hadoop, git, ant, Java EE, WSDL, Maven, stem). 
+and technologies (Hadoop, Java EE, git, Ant, Maven, WSDL, stem). 
 
 If you wish to have a quick idea on my coding skills, you can have a look at 
 one of these projects:
 
-* [constrained-adversarial-network](https://github.com/ShadowTemplate/constrained-adversarial-network)
+* [constrained-adversarial-networks](https://github.com/ShadowTemplate/constrained-adversarial-networks)
 
-*A deep generative model to instil prior knowledge on discrete domains in the form of constraints into Boundary-seeking Generative Adversarial Networks. This repository contains both the TensorFlow model and the testing suite to generate data sets, run experiments, train Constrained Adversarial Networks and collect results.*
+*A deep generative model to instil prior knowledge on discrete domains in the 
+form of constraints into Boundary-seeking Generative Adversarial Networks.
+This repository contains both the TensorFlow model and the testing suite to 
+generate data sets, run experiments, train Constrained Adversarial Networks and 
+collect results.*
 
 * [krafters](https://github.com/GianlucaBortoli/krafters)
 
@@ -77,23 +82,21 @@ set.
 The algorithms are described in the book The Art of Multiprocessor Programming 
 by Maurice Herlihy and Nir Shavit.*
 
-
 * [risakka](https://github.com/ShadowTemplate/risakka)
 
 *A didactic implementation of Raft consensus algorithm in Akka.*
 
-You may be surprised by not finding appropriate tests for the code.
+You may be surprised at not finding appropriate tests for the code.
 If this is the case, either you've forgotten your good old university days or 
 you have had very good mentors.
 Honestly, I've learnt the true importance of testing only while working for 
 companies.
-
 I once had a discussion about testing my thesis code with my co-supervisor.
 He told me: "*Experiments are your tests*".
-
-The absence of proper testing is just one compromised I've been forced to 
+So, the absence of proper testing is just one compromise I've been forced to 
 accept to respect deadlines. It was hard, but necessary.
-I hope things will be different in the future.
+Sorry, TDD guys.
+I hope things will be different in the future. 
 
 ---
 ## Beyond my projects
